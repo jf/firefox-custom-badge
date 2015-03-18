@@ -7,9 +7,10 @@ Useful to distinguish between different profiles, without fiddling with launcher
 Usage
 -----
 
-1. Go to `about:config` 
-2. add a new `string` value named `extensions.custom-badge.value` 
-   and set it to the desired text (e.g., "Fun", "Work" etc.)
+1. Go to `about:addons` 
+2. Find the custom-badge addon under the `Extensions` tab,
+   click on `Preferences`, and set the Badge Text to the
+   desired text (e.g., "Fun", "Work" etc.)
 3. ???
 4. PROFIT!
 
